@@ -1,2 +1,2 @@
 # Physics-Projects
-Here are some jupyter notebooks with practice problems on computational physics.
+Here are some Jupyter notebooks with practice problems on computational physics.
