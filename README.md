@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/phyelsec/Physics-Practice?logo=Github&style=plastic)
+
 ## Basic Conda management commands:
 
 **Activate conda:**\
